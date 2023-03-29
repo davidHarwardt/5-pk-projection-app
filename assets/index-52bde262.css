@@ -1,0 +1,1 @@
+html{background-color:#111;overflow:hidden;font-size:1.5rem}body{margin:0}.buttons{position:absolute;z-index:100;top:0;left:0;right:0;display:flex;gap:1rem;padding:1rem}button{font-size:1em;color:#fff;background-color:#222;border:none;padding:.5rem}select{background-color:#222;border:none;color:#fff;font-size:1em}
